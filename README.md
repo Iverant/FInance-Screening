@@ -32,6 +32,12 @@ This design ensures the separation of concerns (API logic, DB models, validation
 
 ---
 
+## Sample Output
+
+![image](https://github.com/user-attachments/assets/d06b4134-5478-43bb-92a0-1871eccd0aea)
+
+
+
 ##  Effectiveness of the Chosen Database (SQLite)
 
 **Why SQLite?**
